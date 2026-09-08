@@ -1,0 +1,4 @@
+interface:
+  display_name: "CRM 我的客户设计"
+  short_description: "生成我的客户模块单文件高保真交互 HTML"
+  default_prompt: "使用 $crm-system-design 设计“集团客户 → 我的客户”模块，并输出一个可直接打开的高保真交互 HTML。"
