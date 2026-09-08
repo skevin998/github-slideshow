@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M11,3 L11,14.5 L6,14.5 L2.5,11 L2.5,3 L11,3 Z M10,4 L3.5,4 L3.5,10 L6.5,10 L6.5,13.5 L10,13.5 L10,4 Z M5.5,12.585 L5.5,11 L3.915,11 L5.5,12.585 Z M13,1 L13,12.5 L12,12.5 L12,2 L4.5,2 L4.5,1 L13,1 Z" id="形状结合" fill="#206DEF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
